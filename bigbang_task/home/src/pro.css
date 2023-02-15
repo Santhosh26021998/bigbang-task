@@ -1,0 +1,24 @@
+.card{
+    border: none;
+    outline: none;
+    background-color: rgb(177, 185, 221);
+}
+.back{
+    background-image: url("pexels-pixabay-259919.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.test{
+    background-color: rgb(177, 185, 221);
+}
+.abo{
+    background-color: rgb(177, 185, 221);
+}
+.por{
+    height: 100%;
+    width: 80%;
+}
+.cour{
+    background-color: rgb(177, 185, 221);
+}

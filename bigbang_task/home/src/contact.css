@@ -1,0 +1,75 @@
+.foot{
+    background-color: rgb(177, 185, 221);
+}
+
+.tfirst{
+    font-size: 20px;
+  
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+}
+
+.first{
+    margin-right: 50px;
+   
+    font-weight: 500;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.tsecond{
+    font-weight: bold;
+   
+    font-size: 20px;
+ 
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.second1{
+ 
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.second2{
+ 
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: -10px;
+}
+
+
+.second3{
+   
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: -10px;
+}
+
+
+.second4{
+  
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: -10px;
+}
+
+
+.tthird{
+    font-weight: bold;
+    margin-right: 80px;
+    font-size: 20px;
+
+    font-family: 'Josefin Sans', sans-serif;
+}
+.third{
+    margin-right: 80px;
+
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.allicons{
+  
+    font-size: 25px;
+    margin-left: 0px;
+    
+}
+
+.icons{
+    margin-right: 20px;
+}
